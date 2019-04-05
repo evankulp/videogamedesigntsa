@@ -1,1 +1,2 @@
-console.log("yote")
+console.log("yote");
+alert("YEETUS!!!");
